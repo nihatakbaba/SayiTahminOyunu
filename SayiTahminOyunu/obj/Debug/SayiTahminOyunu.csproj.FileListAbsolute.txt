@@ -1,0 +1,7 @@
+C:\Users\sony\Desktop\SayiTahminOyunu\SayiTahminOyunu\bin\Debug\SayiTahminOyunu.exe.config
+C:\Users\sony\Desktop\SayiTahminOyunu\SayiTahminOyunu\bin\Debug\SayiTahminOyunu.exe
+C:\Users\sony\Desktop\SayiTahminOyunu\SayiTahminOyunu\bin\Debug\SayiTahminOyunu.pdb
+C:\Users\sony\Desktop\SayiTahminOyunu\SayiTahminOyunu\obj\Debug\SayiTahminOyunu.csprojAssemblyReference.cache
+C:\Users\sony\Desktop\SayiTahminOyunu\SayiTahminOyunu\obj\Debug\SayiTahminOyunu.csproj.CoreCompileInputs.cache
+C:\Users\sony\Desktop\SayiTahminOyunu\SayiTahminOyunu\obj\Debug\SayiTahminOyunu.exe
+C:\Users\sony\Desktop\SayiTahminOyunu\SayiTahminOyunu\obj\Debug\SayiTahminOyunu.pdb
